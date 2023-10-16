@@ -19,14 +19,17 @@
     "vue-router": "^4.2.5"
   },
   "dependencies": {
+    "@popperjs/core": "^2.11.8",
     "@radix-icons/vue": "^1.0.0",
     "@vee-validate/zod": "^4.11.8",
     "@vueuse/core": "^10.5.0",
     "class-variance-authority": "^0.7.0",
     "clsx": "^2.0.0",
+    "lucide-vue-next": "^0.287.0",
     "radix-vue": "^0.4.1",
     "tailwind-merge": "^1.14.0",
     "tailwindcss-animate": "^1.0.7",
+    "v-calendar": "^3.1.2",
     "vee-validate": "^4.11.8",
     "zod": "^3.22.4"
   }
